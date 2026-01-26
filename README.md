@@ -151,7 +151,6 @@ https://github.com/ViktorShadr/e_learning_platform
 
 ---
 
-## 📫 Связаться со мной
-- GitHub: https://github.com/ViktorShadr  
+## 📫 Связаться со мной  
 - Telegram: @ViktorShadr  
 - Email: v.viktor.shadrin@gmail.com
