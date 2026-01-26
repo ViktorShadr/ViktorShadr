@@ -14,6 +14,8 @@ Python Backend Developer
 ![Git](https://img.shields.io/badge/Git-version_control-orange?logo=git)
 
 ---
+Backend-разработка, доработка и сопровождение API-сервисов: от идеи до стабильного запуска.
+
 
 ## 🧠 Кто я и чем могу быть полезен
 
@@ -103,7 +105,8 @@ https://github.com/ViktorShadr/auth_rbac_shop
 ### ⏰ Habit Reminder API  
 **Django · DRF · Celery · Redis · PostgreSQL · Docker**
 
-Backend-сервис для управления привычками и автоматических напоминаний.
+Backend-сервис для управления привычками и автоматических напоминаний
+(уведомления, периодические задачи, интеграция с Telegram).
 
 - REST API для управления привычками и расписаниями
 - асинхронные и периодические задачи (Celery + Redis)
@@ -131,7 +134,14 @@ Backend-платформа для онлайн-обучения.
 https://github.com/ViktorShadr/e_learning_platform
 
 ---
+## 🧩 Типовые задачи, с которыми работаю
 
+- разработка и доработка REST API
+- исправление ошибок и рефакторинг Django/DRF проектов
+- настройка Celery, Redis, периодических задач
+- интеграция с внешними API и Telegram-ботами
+- контейнеризация и воспроизводимый запуск через Docker
+---
 
 ## 🤝 Форматы работы
 
