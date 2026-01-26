@@ -90,44 +90,48 @@ https://github.com/ViktorShadr/deribit-price-tracker
 Проект с кастомной системой аутентификации и роль-ориентированной моделью доступа.
 
 - JWT-аутентификация  
-- гибкая RBAC-модель (роли, правила в БД)  
+- гибкая RBAC-модель (роли и правила в БД)  
 - корректная обработка 401 / 403  
 - Admin API для управления доступами  
-- тесты и воспроизводимый запуск  
+- автоматические тесты  
 
 👉 Репозиторий:  
 https://github.com/ViktorShadr/auth_rbac_shop
 
 ---
 
-### 🛒 Django E-commerce Platform  
-**Django · PostgreSQL · Redis**
+### ⏰ Habit Reminder API  
+**Django · DRF · Celery · Redis · PostgreSQL · Docker**
 
-Backend интернет-магазина.
+Backend-сервис для управления привычками и автоматических напоминаний.
 
-- управление каталогом товаров  
-- пользователи и роли  
-- CRUD и бизнес-логика  
-- кэширование через Redis  
+- REST API для управления привычками и расписаниями
+- асинхронные и периодические задачи (Celery + Redis)
+- логика частоты напоминаний и бизнес-валидация
+- интеграция с внешними сервисами (уведомления Telegram)
+- Docker / Docker Compose окружение
 
 👉 Репозиторий:  
-https://github.com/ViktorShadr/django-ecommerce-platform
+https://github.com/ViktorShadr/habit-reminder-api
 
 ---
 
-### ✉️ Django Mailing Service  
-**Django · PostgreSQL · crontab**
+### 🎓 E-learning Platform  
+**Django · DRF · PostgreSQL · Redis · Celery · Docker**
 
-Сервис автоматической email-рассылки.
+Backend-платформа для онлайн-обучения.
 
-- управление рассылками и клиентами  
-- хранение данных в PostgreSQL  
-- отправка писем по расписанию  
+- REST API для курсов, уроков и пользователей
+- роли и права доступа
+- фоновые задачи и отложенные операции
+- PostgreSQL, Redis
+- воспроизводимый запуск через Docker Compose
 
 👉 Репозиторий:  
-https://github.com/ViktorShadr/django-mailing-service
+https://github.com/ViktorShadr/e_learning_platform
 
 ---
+
 
 ## 🤝 Форматы работы
 
