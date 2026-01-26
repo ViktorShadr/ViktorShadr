@@ -1,6 +1,7 @@
 # 👋 Привет, я Виктор
+
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=9CA3AF&width=700&lines=Python+Backend+Developer;Django+·+DRF+·+FastAPI;REST+API+%2B+Celery+%2B+Docker;Stable+backend+services+without+noise" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=9CA3AF&width=700&lines=Python+Backend+Developer;Django+-+DRF+-+FastAPI;REST+API+%2B+Celery+%2B+Docker;Stable+backend+services+without+noise" />
 </p>
 
 Python Backend Developer  
