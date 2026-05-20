@@ -243,5 +243,6 @@ Currently most interested in:
 # 📬 Contact
 
 * Telegram: [@ViktorShadr](https://t.me/ViktorShadr?utm_source=chatgpt.com)
-* Email:
+* Email: v.viktor.shadrin@gmail.com
 * GitHub: [ViktorShadr GitHub](https://github.com/ViktorShadr?utm_source=chatgpt.com)
+* Mobile: +7-910-971-66-84
