@@ -190,24 +190,6 @@ Authentication and role-based access control system.
 👉 Repository:
 [Auth RBAC Shop Repository](https://github.com/ViktorShadr/auth_rbac_shop?utm_source=chatgpt.com)
 
----
-
-## ⏰ Habit Reminder API
-
-**Django · DRF · Celery · Redis · PostgreSQL · Docker**
-
-Backend service for habit tracking and Telegram reminders.
-
-### Features
-
-* scheduled notifications
-* periodic tasks
-* Telegram integration
-* business validation
-* duplicate-notification protection
-
-👉 Repository:
-[Habit Reminder API Repository](https://github.com/ViktorShadr/habit-reminder-api?utm_source=chatgpt.com)
 
 ---
 
