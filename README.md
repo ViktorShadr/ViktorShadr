@@ -106,8 +106,8 @@ The checkout system safely handles:
 * Sentry
 * Structured JSON logging
 
-👉 Repository:
-[Matchday Store Repository](https://github.com/ViktorShadr/matchday_store?utm_source=chatgpt.com)
+🔗 Source Code:
+[Matchday Store Repository](https://github.com/ViktorShadr/matchday_store/)
 
 ---
 
@@ -168,8 +168,8 @@ Backend service for collecting and aggregating cryptocurrency market data from D
 * REST API for aggregated data
 * Dockerized deployment
 
-👉 Repository:
-[Deribit Price Tracker Repository](https://github.com/ViktorShadr/deribit-price-tracker?utm_source=chatgpt.com)
+🔗 Source Code:
+[Deribit Price Tracker Repository](https://github.com/ViktorShadr/deribit-price-tracker/)
 
 ---
 
@@ -187,8 +187,8 @@ Authentication and role-based access control system.
 * protected API endpoints
 * Admin API for access management
 
-👉 Repository:
-[Auth RBAC Shop Repository](https://github.com/ViktorShadr/auth_rbac_shop?utm_source=chatgpt.com)
+🔗 Source Code:
+[Auth RBAC Shop Repository](https://github.com/ViktorShadr/auth_rbac_shop/)
 
 
 ---
@@ -224,7 +224,7 @@ Currently most interested in:
 
 # 📬 Contact
 
-* Telegram: [@ViktorShadr](https://t.me/ViktorShadr?utm_source=chatgpt.com)
+* Telegram: [@ViktorShadr](https://t.me/ViktorShadr/)
 * Email: v.viktor.shadrin@gmail.com
-* GitHub: [ViktorShadr GitHub](https://github.com/ViktorShadr?utm_source=chatgpt.com)
+* GitHub: [ViktorShadr GitHub](https://github.com/ViktorShadr/)
 * Mobile: +7-910-971-66-84
